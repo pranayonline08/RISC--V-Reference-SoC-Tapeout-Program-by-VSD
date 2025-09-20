@@ -1,4 +1,4 @@
-# WEEK O - Installaton of tools 
+# WEEK 0 - Installaton of tools 
 
  # SYSTEM REQUIREMENTS 
 - 6GB RAM, 50 GB HDD
@@ -18,14 +18,20 @@
      - $ make config-gcc
      - $ make
      - $ sudo make install
+![installation verification](yosys.png)
+
 # Iverilog 
-  - steps to install iverilog
-  - sudo apt-get update
-  - sudo apt-get install iverilog
+
+   - steps to install iverilog
+   - sudo apt-get update
+   - sudo apt-get install iverilog
+
+![installation verification](iverilog.png)
 
 # gtkwave
- - Steps to install gtkwave
- - sudo apt-get update
- - sudo apt install gtkwave
 
-  
+  - Steps to install gtkwave
+  - sudo apt-get update
+  - sudo apt install gtkwave
+
+  ![installation verification](gtkwave.png)
