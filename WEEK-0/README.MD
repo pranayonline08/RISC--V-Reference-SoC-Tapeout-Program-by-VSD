@@ -7,7 +7,7 @@
 
   # Yosys
 
-    ` - $ sudo apt-get update
+     - $ sudo apt-get update
      - $ git clone https://github.com/YosysHQ/yosys.git
      - $ cd yosys
      - $ sudo apt install make (If make is not installed please install it)
@@ -17,5 +17,5 @@
          libboost-python-dev libboost-filesystem-dev zlib1g-dev
      - $ make config-gcc
      - $ make
-     - $ sudo make install`
+     - $ sudo make install
  
