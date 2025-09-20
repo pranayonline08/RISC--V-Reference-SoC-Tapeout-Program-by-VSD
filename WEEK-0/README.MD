@@ -20,18 +20,16 @@
      - $ sudo make install
 ![installation verification](yosys.png)
 
-# Iverilog 
+ # Iverilog 
 
-   - steps to install iverilog
-   - sudo apt-get update
-   - sudo apt-get install iverilog
-
+    - steps to install iverilog
+    - sudo apt-get update
+    - sudo apt-get install iverilog
 ![installation verification](iverilog.png)
 
-# gtkwave
+ # gtkwave
 
-  - Steps to install gtkwave
-  - sudo apt-get update
-  - sudo apt install gtkwave
-
+   - Steps to install gtkwave
+   - sudo apt-get update
+   - sudo apt install gtkwave
   ![installation verification](gtkwave.png)
