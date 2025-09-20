@@ -29,7 +29,7 @@
 
  # gtkwave
 
-   - Steps to install gtkwave
-   - sudo apt-get update
-   - sudo apt install gtkwave
+    - Steps to install gtkwave
+    - sudo apt-get update
+    - sudo apt install gtkwave
  ![installation verification](gtkwavw.png)
